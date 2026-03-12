@@ -53,3 +53,34 @@ Recognizing a pattern is the first step to changing it.
 ## Author
 
 Created as part of an AI agent design exercise focused on self-reflection tools and personal development.
+
+## Reflection Flow
+
+User describes a situation  
+↓  
+User identifies what bothered them  
+↓  
+Agent detects a possible thought pattern  
+↓  
+Agent offers an alternative perspective  
+↓  
+User reflects and practices a micro-shift
+## Demo
+
+Pattern Mirror was built and tested using Google AI Studio.
+
+Example interaction:
+
+User: My colleague ignored my idea in the meeting.
+
+Agent:
+
+Possible Pattern: Need for recognition
+
+Alternative Perspective: Sometimes ideas are overlooked without intention.
+
+Reflection Question: What part of that situation bothered you the most?
+
+Micro Practice: Write one sentence describing what you actually needed in that moment.
+
+Add reflection flow and demo
